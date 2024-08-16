@@ -2,3 +2,38 @@
     margin: 0;
     padding: 0;
 }
+
+
+.bg-black-main{
+    background-color: #333333;
+    color: #9999
+    
+}
+
+.big-bannar{
+    background-image: url(./Images/female.jpg);
+   
+}
+
+.small-bannar-1{
+    background-color: url(./Images/BG2.png);
+   
+    background-position-x: 90px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.small-bannar-2{
+    background-color: url(./Images/BG.png );
+    
+}
+
+.bg-orange{
+    background-color:  #FF8A00;
+    ;
+}
+
+.text-main{
+    color: #00b207;
+}
+
